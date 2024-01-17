@@ -1,77 +1,82 @@
 # Syllabus
-Unit 1: Your First Computer Program
-In this unit you’ll create your very first computer program! You’ll be introduced to basic programming concepts and you’ll familiarise yourself with Scratch.
 
-Algorithms.
+**Unit 1: Your First Computer Program**
+In this unit, you’ll create your very first computer program! You’ll be introduced to basic programming concepts and you’ll familiarise yourself with Scratch.
 
-Sequence.
+- Algorithms.
 
-Selection: if-then.
+- Sequence.
 
-Iteration: infinite loops.
+- Selection: if-then.
 
-Incremental development of programs.
+- Iteration: infinite loops.
 
-Simple software testing.
+- Incremental development of programs.
 
-Scratch: interface, motion palette, looks palette, coordinates.
+- Simple software testing.
 
-
-Unit 2: Code Gone Loopy!
-In this unit you’ll keep working with control structures, you’ll find out how to use events in your programs and how to incorporate visual and sound effects in Scratch. You’ll also start thinking about the requirements and the design of your program.
-
-Iteration: count-controlled loops, decision-controlled loops.
-
-Selection: if-then-else.
-
-Event-driven programming.
-
-Computational thinking: abstraction, decomposition.
-
-Software engineering: requirements, design.
-
-Scratch: control palette, events palette, pen palette, sound palette, sensing palette.
+-Scratch: interface, motion palette, looks palette, coordinates.
 
 
-Unit 3: Remixing Games
-In this unit you’ll have a go at modifying and extending existing games to create new versions. You’ll also learn about software engineering practices for testing and documenting your programs.
+**Unit 2: Code Gone Loopy!**
 
-Variables.
+In this unit, you’ll keep working with control structures, find out how to use events in your programs, and incorporate visual and sound effects in Scratch. You’ll also start thinking about your program's requirements and design.
 
-Complex conditions.
+- Iteration: count-controlled loops, decision-controlled loops.
 
-Nested loops.
+- Selection: if-then-else.
 
-Software engineering: documentation, testing, maintenance.
+- Event-driven programming.
 
-User interaction.
+- Computational thinking: abstraction, decomposition.
 
-Scratch: data palette, operators palette, comments, paint editor, remixing.
+- Software engineering: requirements, design.
 
-
-Unit 4: Reusing Your Code
-In this unit you’ll be introduced to procedures and cloning in Scratch, and you’ll apply these ideas to reuse your code.
-
-Procedures.
-
-Good software properties: modularity, flexibility.
-
-Computational thinking: generalisation.
-
-Scratch: more blocks palette, clones, backpack.
+- Scratch: control palette, events palette, pen palette, sound palette, sensing palette.
 
 
-Unit 5: Think Like a Software Engineer
-In this unit you’ll follow all the steps of software development to create a fun computer game. You’ll also learn about message broadcasting and concurrency.
+**Unit 3: Remixing Games**
 
-Software development process.
+In this unit, you’ll have a go at modifying and extending existing games to create new versions. You’ll also learn about software engineering practices for testing and documenting your programs.
 
-Software development approaches: waterfall model, iterative and incremental, prototyping.
+- Variables.
 
-Coordination: concurrency, message broadcasting.
+- Complex conditions.
 
-Computational complexity.
+- Nested loops.
 
-Other programming languages.
+- Software engineering: documentation, testing, maintenance.
 
-Scratch: message broadcasting, publishing projects.
+- User interaction.
+
+- Scratch: data palette, operators palette, comments, paint editor, remixing.
+
+
+**Unit 4: Reusing Your Code**
+
+In this unit, you’ll be introduced to procedures and cloning in Scratch, and you’ll apply these ideas to reuse your code.
+
+- Procedures.
+
+- Good software properties: modularity, flexibility.
+
+- Computational thinking: generalization.
+
+- Scratch: more blocks palette, clones, backpack.
+
+
+**Unit 5: Think Like a Software Engineer**
+
+In this unit, you’ll follow all the steps of software development to create a fun computer game. You’ll also learn about message broadcasting and concurrency.
+
+- Software development process.
+
+- Software development approaches: waterfall model, iterative and incremental, prototyping.
+
+- Coordination: concurrency, message broadcasting.
+
+- Computational complexity.
+
+- Other programming languages.
+
+- Scratch: message broadcasting, publishing projects.
